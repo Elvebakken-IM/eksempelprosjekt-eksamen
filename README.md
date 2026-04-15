@@ -1,15 +1,18 @@
-# 📦 README.md – Node.js Shopping Platform
+# Exam Example Project: Shopping Platform
 
 ## 🧭 Overview
 
-This project is a full-stack **e-commerce web application** built with:
+This project is a full-stack **e-commerce web application**, designed for selling computer hardware.
 
+Tech Stack:
 * Node.js (backend runtime)
 * Express.js (web framework)
 * MongoDB + Mongoose (database)
 * EJS (templating engine)
-* Stripe (payments)
-* PDFKit (invoice generation)
+* _Stripe (payments)_
+  * _Currently not implemented_
+* _PDFKit (invoice generation)_
+  * _Currently not implemented_
 
 The application supports a full shopping flow:
 
