@@ -279,16 +279,3 @@ http://localhost:3000
 * [ ] Product search & filtering
 * [ ] Wishlist feature
 * [ ] Multi-tenant support
-
----
-
-## 📚 Learning Goals (for students)
-
-Dette prosjektet dekker:
-
-* Fullstack webutvikling
-* MVC-arkitektur
-* REST API-design
-* Datamodellering
-* Betalingsintegrasjon
-* Produksjonsklar backend
