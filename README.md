@@ -9,7 +9,7 @@ Tech Stack:
 * Express.js (web framework)
 * MongoDB + Mongoose (database)
 * EJS (templating engine)
-* _Stripe (payments)_
+* _Vipps (payments)_
   * _Currently not implemented_
 * _PDFKit (invoice generation)_
   * _Currently not implemented_
